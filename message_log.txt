@@ -1,0 +1,8 @@
+Sent at 2024-07-17 20:56:55: hello sir
+Received at 2024-07-17 20:56:55: hello sir
+Sent at 2024-07-17 20:57:01: hello dear
+Received at 2024-07-17 20:56:55: 2024-07-17 20:57:01: hello dear
+Sent at 2024-07-17 20:57:08: hoe are you
+Received at 2024-07-17 20:57:08: hoe are you
+Sent at 2024-07-17 20:57:15: all good
+Received at 2024-07-17 20:57:08: 2024-07-17 20:57:15: all good
